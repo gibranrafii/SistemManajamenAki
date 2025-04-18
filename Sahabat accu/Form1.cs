@@ -13,6 +13,7 @@ namespace Sahabat_accu
     public partial class Form1 : Form
     {
         private string connectionString = "Data Source=LAPTOP-QT79LBKA\\GIBRANRAFI;Initial Catalog=SistemManajemenSahabatAccu;Integrated Security=True;Pooling=False";
+
         public Form1()
         {
             InitializeComponent();
